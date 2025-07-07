@@ -5,6 +5,7 @@ Analyze SpaceX Falcon 9 missions using survival analysis, geospatial maps, and E
 ## 🚀 Highlights
 - Fetched real-time data via SpaceX public API
 - Flattened nested JSON (e.g., cores, rockets, launchpads)
+- **Rule-Based Landing Success Estimator** to predict landing success rate using mission parameters — implemented directly in the notebook
 - Kaplan-Meier survival curve using `lifelines`
 - Interactive launch site map with `folium`
 - Visualized booster reuse, landing types, and flight experience
