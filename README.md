@@ -1,4 +1,4 @@
-# 🛰️ SpaceX Falcon 9 Landing Success Analysis
+# 🛰️ SpaceX Falcon 9 Landing Analysis
 
 Analyze SpaceX Falcon 9 missions using survival analysis, geospatial maps, and EDA to uncover factors behind successful landings.
 
