@@ -22,5 +22,3 @@ Analyze SpaceX Falcon 9 missions using survival analysis, geospatial maps, and E
 ### Launchpad Map
 ![Launch Map](plots/launch-map.png)
 
-## 📦 Data Source
-[SpaceX Launches API](https://api.spacexdata.com/v4/launches)
